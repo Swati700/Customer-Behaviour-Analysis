@@ -28,20 +28,6 @@ This project focuses on analyzing customer shopping behavior using data analysis
 
 ---
 
-## 📂 Project Structure
-
-```
-Customer-Behaviour-Analysis/
-│
-├── data/                 # Dataset files (CSV, Excel, etc.)
-├── notebooks/            # Jupyter notebooks for analysis
-├── sql/                # SQL queries and scripts
-├── images/               # Graphs and charts
-└── README.md             # Project documentation
-```
-
----
-
 ## 📊 Key Steps Performed
 
 1. Data Collection
